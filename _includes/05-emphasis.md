@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I pay attention to details, it's my thing; I like my I's dotted and my T's crossed.  
+
+I have been a self-taught developer, but thought some formal education would somehow make me better.  While I did learn a great many things through my higher-education experience, when it came to programming I was still just given a book to work through...I came to realize that **I am enough**.  My *determination* and *interest* in using technologies to make the lives of others easier or more efficient is enough. It is enough to *drive me* to find the *right technology to fit the job*, even when I'm *just* self-taught. It is enough to make me *keep going*, even though the world of technology is ever expanding and there is no possible way I can ever be master of it all...**_I am enough_**.
